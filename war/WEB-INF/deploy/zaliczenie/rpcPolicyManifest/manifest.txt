@@ -1,0 +1,3 @@
+# Module zaliczenie
+# RPC service class, partial path of RPC policy file
+zal.client.PersonService, BB0D6055330A557DD67F8AB22BA7753F.gwt.rpc
