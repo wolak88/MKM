@@ -1,4 +1,4 @@
-package zal.client;
+﻿package zal.client;
 
 import java.util.logging.Level;
 import java.util.logging.Logger;
@@ -17,6 +17,10 @@ import com.google.gwt.event.dom.client.ChangeHandler;
 import com.google.gwt.event.dom.client.ClickEvent;
 import com.google.gwt.event.dom.client.ClickHandler;
 import com.google.gwt.user.client.rpc.AsyncCallback;
+
+
+//Dopisałem się Piotr G :D
+
 
 /**
  * Entry point classes define <code>onModuleLoad()</code>.
